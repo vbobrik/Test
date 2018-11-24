@@ -12,6 +12,7 @@ class User {
     String firstName;
     String lasttName;
     boolean isAdult;
+    int bla;
     char sex; // M or F
     double moneyAmount;
 
